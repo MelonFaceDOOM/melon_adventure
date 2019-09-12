@@ -1,0 +1,28 @@
+{
+	1: {
+		"dialogue": "Which pill do you want to take?",
+		"options": [{"option_text": "Red pill",
+			"next_scene": 2},
+			{"option_text": "Blue pill",
+			"next_scene": 3}
+		]
+	},
+	2: {
+		"dialogue": "I don't remember what happens after Neo takes the red pill",
+		"options": [{"option_text": "same",
+			"next_scene": 4},
+			{"option_text": "same",
+			"next_scene": 4}
+		]
+	},
+	3: {
+		"dialogue": "You wake up in your bed",
+		"options": [
+		]
+	},
+	4: {
+		"dialogue": "You wake up in your bed",
+		"options": [
+		]
+	}
+}
